@@ -203,29 +203,16 @@ pip install torch torchvision nibabel scikit-learn scipy matplotlib seaborn tqdm
 - **Federated Learning**: Collaborative training across institutions
 - **Clinical Validation**: Real-world deployment and validation
 
-## Academic Information
-
-- **Project Type**: Graduation Project
-- **Student IDs**: 20011909, 20011008
-- **Institution**: [University Name]
-- **Year**: 2025
-- **Supervisor**: [Supervisor Name]
 
 ## References
 
 - ADNI Dataset: http://adni.loni.usc.edu/
 - FastSurfer: https://github.com/Deep-MI/FastSurfer
 - PyTorch: https://pytorch.org/
-- Related publications and research papers
 
 ## License
 
 This project is for academic purposes. The ADNI dataset usage follows the ADNI Data Use Agreement. Please cite appropriately if using this work for research purposes.
 
-## Contact
-
-For questions or collaboration opportunities, please contact the project authors through the university's official channels.
 
 ---
-
-*This README provides a comprehensive overview of the Alzheimer's Disease classification project. For detailed technical implementation, please refer to the individual Jupyter notebooks in each directory.*
